@@ -1,0 +1,97 @@
+#appFeatures{
+-fx-background-color: #e9ecef;
+}
+#appDescription {
+-fx-padding:  150px 350px ;
+ -fx-border-insets:  150px 350px;
+ -fx-background-insets: 150px 350px;
+ -fx-alignment: center;
+}
+#appName {
+-fx-text-fill: #F5F5F5;
+-fx-font-size: 18px;
+-fx-font-weight: bold;
+}
+#appDesc {
+-fx-font-smoothing-type: lcd;
+-fx-text-fill:  #EEEEEE;
+-fx-font-size: 12px;
+}
+#appFeatures{
+-fx-padding: 0px 0px 0px 20px;
+}
+#header {
+-fx-font-fill: #495057;
+-fx-font-size: 18px;
+-fx-font-weight: bold;
+}
+#all{
+ -fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#hotel{
+ -fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#parks{
+ -fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#waterfalls {
+-fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#mountainP {
+-fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#mountainPeaks {
+-fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#botanicalGarden {
+-fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 2px 15px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+#trendsHeader {
+-fx-font-fill: #495057;
+-fx-font-size: 18px;
+-fx-font-weight: bold;
+}
+#s1ViewMore {
+-fx-border-width: 1;
+  -fx-border-color: #BDBDBD;
+  -fx-padding: 1px 5px;
+  -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-alignment: center;
+}
+
